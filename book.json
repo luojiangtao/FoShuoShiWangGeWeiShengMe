@@ -1,3 +1,19 @@
 {
-    "title": "《佛说十万个为什么》罗江涛·著"
+    "title": "《佛说十万个为什么》罗江涛·著",
+    "theme": "morning-mist",
+    "pluginsConfig": {
+        "theme-morning-mist": {
+            "navs": [
+                {
+                    "url": "https:\/\/7qrbxke2v5.k.topthink.com\/@8lrx1n4245\/mulu.html",
+                    "title": "《佛说女人》罗江涛·著"
+                },
+                {
+                    "title": "《佛说爱情婚姻》罗江涛·著",
+                    "url": "https:\/\/7qrbxke2v5.k.topthink.com\/@l4rzgmxpx7\/mulu.html"
+                }
+            ],
+            "banner": "banner:1"
+        }
+    }
 }
