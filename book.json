@@ -1,6 +1,12 @@
 {
     "title": "《佛说十万个为什么》罗江涛·著",
     "pluginsConfig": {
-        "theme-morning-mist": []
-    }
+        "theme-morning-mist": [],
+        "baidu-tongji": {
+            "siteid": "0663f5c399ff50cea7b8c1ca7eae7c8a"
+        }
+    },
+    "plugins": [
+        "baidu-tongji"
+    ]
 }
