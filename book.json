@@ -11,7 +11,6 @@
         }
     },
     "plugins": [
-        "baidu-tongji",
-        "comment"
+        "baidu-tongji"
     ]
 }
